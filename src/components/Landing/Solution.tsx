@@ -4,7 +4,7 @@ export default function Solution() {
         <div className="relative max-w-7xl flex flex-col sm:flex-row mx-auto sm:gap-32">
             <div className="flex flex-col">
                 <p className="text-[#381840] text-2xl font-bold max-w-[150px]">Innovative Solution</p>
-                <p className="mt-2 text-[#451D50] font-medium leading-normal max-w-[200px]">Our unique Super-App caters to the web3 community's needs</p>
+                <p className="mt-2 text-[#451D50] font-medium leading-normal max-w-[200px]">Our unique Super-App caters to the web3 community needs</p>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-10 sm:mt-0 mt-10 sm:gap-5">
                 <div className="flex flex-col gap-1">
