@@ -4,6 +4,12 @@ import Explorer from '@/components/Landing/Explorer';
 import Howworks from '@/components/Landing/Howworks';
 import Solution from '@/components/Landing/Solution';
 import Career from '@/components/Landing/Career';
+import Tokenomics from '@/components/Landing/Tokenomics';
+import JoinCommunity from '@/components/Landing/JoinCommunity';
+import Utility from '@/components/Landing/Utility';
+import Investors from '@/components/Landing/Investors';
+import Referral from '@/components/Landing/Referral';
+import FeaturedPosts from '@/components/Landing/FeaturedPosts';
 
 export default function Home() {
   return (
@@ -14,6 +20,12 @@ export default function Home() {
       <Howworks />
       <Solution />
       <Career />
+      <JoinCommunity />
+      <Tokenomics />
+      <Utility />
+      <Investors />
+      <Referral />
+      <FeaturedPosts />
     </main>
   )
 }

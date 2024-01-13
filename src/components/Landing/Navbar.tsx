@@ -5,7 +5,7 @@ export default function Intro() {
         <img src="./img/logo.png"></img>
         <div className="flex flex-row gap-10 justify-center items-center">
           <p className="text-white">Docs</p>
-          <button className="bg-[#FFA81F] text-[#381840] rounded-md py-2 px-10 font-semibold">Connect</button>
+          <button className="bg-[#FFA81F] text-[#381840] rounded-md py-2 px-10 font-medium">Connect</button>
         </div>
       </div>
     </div>
